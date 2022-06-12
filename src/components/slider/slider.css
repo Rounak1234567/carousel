@@ -1,0 +1,10 @@
+.cclass{
+    height: 300px;
+    overflow: hidden;
+    width: 100%;
+    margin: auto;
+}
+.cclass img{
+    height: 300px;
+    width: 100%;
+}
